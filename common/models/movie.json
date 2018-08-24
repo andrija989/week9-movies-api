@@ -30,6 +30,10 @@
     "genre": {
       "type": "string",
       "required": true
+    },
+    "duration": {
+      "type": "string",
+      "required": true
     }
   },
   "validations": [],
